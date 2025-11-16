@@ -1,0 +1,5 @@
+Player URL:
+https://bbg021631.github.io/player/?list=https://raw.githubusercontent.com/bbg021631/9f40207b98b47d70/refs/heads/master/github_master.m3u8
+
+Direct Playlist URL:
+https://raw.githubusercontent.com/bbg021631/9f40207b98b47d70/refs/heads/master/github_master.m3u8
